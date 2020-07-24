@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄很高兴遇见你，请多指教
+
+- 我是一名 Java 工程师
+- base in FuZhou
+- 博客：www.xuyk.top
+
+[![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](//www.xuyk.top)
