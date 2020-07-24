@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - base in FuZhou
 - 博客：www.xuyk.top
 
-[![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](//www.xuyk.top)
+[![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](http://xuyk.top)
