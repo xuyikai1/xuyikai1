@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 我是一名 Java 工程师
 - base in FuZhou
 - 博客：www.xuyk.top
-- 放弃不难，但坚持一定很酷。——《解忧杂货铺》
 
 [![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](//www.xuyk.top)
