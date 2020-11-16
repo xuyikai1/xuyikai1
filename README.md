@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄很高兴遇见你，请多指教
 
-- 我是一名 Java 工程师
+- 一名 Java 工程师
 - Base：FuZhou
 - 博客：www.xuyk.top
 
