@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - 一名 Java 工程师
 - Base：FuZhou
 - 博客：www.xuyk.top
+- Java有道云笔记：[Notes-on-Java](https://github.com/xuyikai1/Notes-on-Java)
+- 一些优雅实践：[elegant-practices](https://github.com/xuyikai1/elegant-practices)
 
 [![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](http://xuyk.top)
