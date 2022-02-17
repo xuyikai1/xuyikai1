@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - 博客：www.xuyk.top
 - Java有道云笔记：[Notes-on-Java](https://github.com/xuyikai1/Notes-on-Java)
 - 一些优雅实践：[elegant-practices](https://github.com/xuyikai1/elegant-practices)
+- typora收费了,推荐一个好用的markdown编辑器Boostnot：()
 
 [![xuyikai1 github stats](https://github-readme-stats.vercel.app/api?username=xuyikai1)](http://xuyk.top)
